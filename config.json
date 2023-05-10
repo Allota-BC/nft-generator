@@ -1,0 +1,31 @@
+{
+    "project_name": "lota nft",
+
+    "amount": 90,
+
+    "profile_images": 5,
+
+    "description": "description of your collection",
+
+    "api_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiJiMjgyODJkNy02MDMxLTRhN2YtOGEwNi03YTNhZmMwYzA4MGQiLCJlbWFpbCI6Im51dHRha2l0QHJvb3N0b28uY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsInBpbl9wb2xpY3kiOnsicmVnaW9ucyI6W3siaWQiOiJGUkExIiwiZGVzaXJlZFJlcGxpY2F0aW9uQ291bnQiOjF9XSwidmVyc2lvbiI6MX0sIm1mYV9lbmFibGVkIjpmYWxzZSwic3RhdHVzIjoiQUNUSVZFIn0sImF1dGhlbnRpY2F0aW9uVHlwZSI6InNjb3BlZEtleSIsInNjb3BlZEtleUtleSI6Ijc4ODg1MDcwOTMzZWIzNGE4N2JjIiwic2NvcGVkS2V5U2VjcmV0IjoiN2UxMzBiZmVmMTQ0ZjM4NzA0ZDU1NGJhMWIzY2U0YzkwMTZlMTAxYjAyYmY3OTEwODFhOGJlMDE5NTAyMGQ2MyIsImlhdCI6MTY4MjI1MjYzOX0._Qjw5YJaho1yU8Kq_chDG1vcFZXjcf9AU6MBXjAa7Yo",
+
+    "folders": [
+        "BG",
+        "BODY",
+        "CLOTHES",
+        "FACE",
+        "HEAD"
+    ],
+
+    "ignore": [
+        ".DS_Store"
+    ],
+    
+    "rarity": {
+        "BG": 10,
+        "BODY": 10,
+        "CLOTHES": 10,
+        "FACE": 10,
+        "HEAD": 10
+    }
+}
