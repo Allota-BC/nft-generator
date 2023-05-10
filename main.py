@@ -426,3 +426,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# TODO logic for specific nft trait [as artist I want some part can only use with specific body]
+# TODO custom nft trait [as holder I want to set specific part to specific body by using part id]
